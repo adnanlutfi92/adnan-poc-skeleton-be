@@ -24,3 +24,8 @@ pnpm start
 ```
 http://localhost:7000
 ```
+## Node version
+
+version 20.10.0
+
+you can use nvm to install the node js
