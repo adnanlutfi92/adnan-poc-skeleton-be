@@ -13,7 +13,8 @@ cd adnan-poc-skeleton-be
 ```
 3. Install the dependencies
 ```
-pnpm install
+chmod +x install.sh
+./install.sh
 ```
 ## Usage
 1. Start the application
